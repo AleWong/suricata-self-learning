@@ -1,0 +1,1 @@
+# suricata-self-learning
